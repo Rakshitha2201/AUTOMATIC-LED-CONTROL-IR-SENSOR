@@ -125,19 +125,8 @@ CASE 1: LED ON
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+
 
 CASE 2: LED OFF
 <br>
@@ -162,20 +151,8 @@ CASE 2: LED OFF
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
+
 
 ---
 ### RESULT
